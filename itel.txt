@@ -1,1 +1,1 @@
-#itel_enable=true;startTime=2015/10/01 12:00;effective=1h#
+#itel_enable=true;startTime=2015/10/1;effective=1h#
